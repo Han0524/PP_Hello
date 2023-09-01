@@ -9,6 +9,7 @@ public class Student {
     }
 
     public Student(){}
+
     public Student(String hno, String name){
         this.hno = hno;
         this.name = name;

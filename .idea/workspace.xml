@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f045e5c-614d-4e19-a8d1-9a761e864a1a" name="Changes" comment="Create Hello Project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exampel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exampel/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/exampel/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/exampel/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693555945355</updated>
-      <workItem from="1693555946724" duration="585000" />
+      <workItem from="1693555946724" duration="649000" />
     </task>
+    <task id="LOCAL-00001" summary="Create Hello Project">
+      <created>1693556578817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693556578817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
